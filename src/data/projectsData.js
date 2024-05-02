@@ -32,7 +32,8 @@ export const data = [
     name: "Infiniarc",
     image: Infiniarc,
     // github:"https://github.com/mahroofvp/Ai-webpage",
-    live: "https://sporterp.co.uk/",
+    live: "hhttps://www.infiniarc.com/en",
+
   },
 
   {
@@ -41,6 +42,7 @@ export const data = [
     image: SportsErp,
     // github:"https://github.com/mahroofvp/Ai-webpage",
     live: "https://sporterp.co.uk/",
+
   },
   {
     id: 6,
