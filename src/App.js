@@ -8,7 +8,7 @@ import Work from "./components/Work";
 
 function App() {
   return (
-    <div className="h-screen ">
+    <div className="h-screen">
       <Navbar />
       <About />
       <Skills />
