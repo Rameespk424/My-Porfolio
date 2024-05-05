@@ -4,7 +4,7 @@ import { useRef } from 'react';
 import emailjs from '@emailjs/browser';
 import toast, { Toaster } from 'react-hot-toast';
 
-const phoneNumber = '+971 582796702';
+const phoneNumber = '+971 5636646637';
  const email = 'pkramees5@gmail.com';
  const githubUrl = 'https://github.com/Rameespk424';
  const linkedinUrl = 'https://www.linkedin.com/in/ramees-pk-28303b1b0/';
