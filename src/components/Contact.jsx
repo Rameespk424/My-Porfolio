@@ -25,7 +25,7 @@ const Contact = () => {
     })
     return
    }
-  emailjs.sendForm('service_yek3yrn', 'template_22pyigz', form.current, 'H4Mc4ZCJqnNf1wBPh')
+  emailjs.sendForm('service_ojq4n7a', 'template_f5c9taf', form.current, '63MxNaOEf6QVLLdOj')
   .then((result) => {
    
     toast.success("Message was sent successfully")
