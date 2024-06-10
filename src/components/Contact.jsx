@@ -4,7 +4,7 @@ import { useRef } from 'react';
 import emailjs from '@emailjs/browser';
 import toast, { Toaster } from 'react-hot-toast';
 
-const phoneNumber = '+971 563364437';
+const phoneNumber = '+91 9567283865';
  const email = 'pkramees5@gmail.com';
  const githubUrl = 'https://github.com/Rameespk424';
  const linkedinUrl = 'https://www.linkedin.com/in/ramees-pk-28303b1b0/';
@@ -52,9 +52,9 @@ const Contact = () => {
                 <p className='text-4xl font-bold inline border-b-4 border-pink-700 text-gray-300'>Contact</p>
                 <p className='text-gray-300 py-4'>// Submit the form below or shoot me an email - <a href={`mailto:${email}`}>{email}</a></p>
             </div>
-            <input className='placeholder-gray-600 bg-[#ccd6f6] p-2' type="text" placeholder='Name' name='from_name' />
-            <input className='placeholder-gray-600 my-4 p-2 bg-[#ccd6f6]' name={""} type="email" placeholder='Email'  />
-            <textarea className='bg-[#ccd6f6] p-2 placeholder-gray-600' name={"message"} rows="10" placeholder='Message'  ></textarea>
+            <input className='placeholder-gray-600 bg-[#ffffff] p-3' type="text" placeholder='Name' name='from_name' />
+            <input className='placeholder-gray-600 my-4 p-3 bg-[#ffffff]' name={""} type="email" placeholder='Email'  />
+            <textarea className='bg-[#ffffff] p-2 placeholder-gray-600' name={"message"} rows="10" placeholder='Message'  ></textarea>
             <button className='text-white border-2 hover:bg-pink-700 hover:border-pink-700 px-4 py-3 my-8 mx-auto flex items-center' type='submit'>Let's Collaborate</button>
         </form>
 
