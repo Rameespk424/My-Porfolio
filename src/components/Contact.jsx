@@ -8,7 +8,7 @@ const phoneNumber = '+91 9567283865';
  const email = 'pkramees5@gmail.com';
  const githubUrl = 'https://github.com/Rameespk424';
  const linkedinUrl = 'https://www.linkedin.com/in/ramees-pk-28303b1b0/';
- const resumeUrl = 'https://drive.google.com/file/d/1HjBkiCBZbFDu9N3qmdfmvkYQMrWkrMQt/view?usp=sharing';
+ const resumeUrl = 'https://drive.google.com/file/d/1gByM86VprRCBAvnTVYr3gmsVxLxecEBX/view?usp=sharing';
 
 
 const Contact = () => {
