@@ -19,7 +19,7 @@ const About = () => {
           </h1>
 
           <h2 className="text-4xl sm:text-7xl mb-3 font-bold text-[#8892b0]">
-            I'm a Creative Frontend Developer.
+            I'm a Creative FullStack Developer.
           </h2>
 
           <TypingAnimation />
